@@ -14,8 +14,8 @@
 
     <url>https://github.com/geosolutions-it/geostore</url>
     <scm>
-        <url>https://github.com/geosolutions-it/geostore</url>
-        <connection>scm:git:git://github.com/geosolutions-it/geostore.git</connection>
+        <url>https://github.com/etj/sample</url>
+        <connection>scm:git:git://github.com/etj/sample.git</connection>
 <!--        <tag>master</tag> -->
     </scm>
 
