@@ -4,7 +4,7 @@
 
     <groupId>it.geosolutions</groupId>
     <artifactId>sample</artifactId>
-    <version>1.1-SNAPSHOT</version>
+    <version>1.2.Z-SNAPSHOT</version>
 
     <packaging>pom</packaging>
 
