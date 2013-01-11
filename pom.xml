@@ -13,7 +13,7 @@
     <url>https://github.com/geosolutions-it/geostore</url>
     <scm>
         <url>https://github.com/etj/sample</url>
-        <connection>scm:git:git://github.com/etj/sample.git</connection>
+        <connection>git@github.com:etj/sample.git</connection>
 <!--        <tag>master</tag> -->
       <tag>1.1.x</tag>
   </scm>
