@@ -4,7 +4,7 @@
 
     <groupId>it.geosolutions</groupId>
     <artifactId>sample</artifactId>
-    <version>1.1-SNAPSHOT</version>
+    <version>1.1.1.RC1-SNAPSHOT</version>
 
     <packaging>pom</packaging>
 
@@ -15,7 +15,8 @@
         <url>https://github.com/etj/sample</url>
         <connection>scm:git:git://github.com/etj/sample.git</connection>
 <!--        <tag>master</tag> -->
-    </scm>
+      <tag>1.1.x</tag>
+  </scm>
 
 	<build>
 	    <plugins>
